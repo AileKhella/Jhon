@@ -213,10 +213,9 @@ header nav ul li:hover {
 
 }
 .post_tem::before {
-    content: "|";
-    height: 21px;
-    color:#000000;
+    content: "";
     margin-right: 25px;
+    border-right: 1px solid #000000;
    }
 .post_tem{
     font-family: 'heeboregular', sans-serif;
